@@ -5,7 +5,7 @@
 ## Project Owner
 
 **Name:** Evan Shelton  
-**Virginia Tech Email:** evans06@vt.edu
+**Virginia Tech Email:** [Add VT email]
 
 ## Project Overview
 
@@ -66,7 +66,7 @@ Prices reflect the current planning list and may change at checkout. The AliExpr
 | Sony 3.7V 15A 3120mAh protected 18650 battery | 1 | $15.00 | [The Custom Saber Shop](https://www.thecustomsabershop.com/Electronics/Batteries-and-Packs/Li-ion-37V/Sony-Li-Ion-18650-37V-15A-3120mAh-PCB-Protected-Rechargeable-Battery) |
 | 18650 single-cell holder | 1 | $2.99 | [The Custom Saber Shop](https://www.thecustomsabershop.com/Electronics/Batteries-and-Packs/Holders-/18650-Single-Cell-Holder) |
 | Illumicore Crystal | 1 | $14.99 | [The Custom Saber Shop](https://www.thecustomsabershop.com/Electronics/Accent-LEDs/Illumicore-Crystal) |
-| Compatible Li-ion charger (specific model TBD) | 1 | $9.99 | [Amazon search](https://www.amazon.com/s?k=18650+charger) |
+| Snado universal rechargeable battery charger | 1 | $9.99 | [Amazon](https://www.amazon.com/Intelligent-Snado-Universal-Rechargeable-Batteries/dp/B0721JP6FK) |
 | **Estimated component subtotal** | | **$374.93** | |
 
 **Estimated Total Component Cost: $374.93** (excluding shipping, tax, fabrication materials, and additional installation hardware). Verify the battery, holder, charger, speaker, and hilt dimensions before purchasing or assembling them.
@@ -94,7 +94,7 @@ The working target is a functional prototype by **February–March 2027**, with 
 
 **Completed:** Selected the Baylan Skoll hilt, Proffieboard V3.9 electronics bundle, Quantum blade kit, protected battery, speaker, and illuminated crystal; drafted the project proposal, bill of materials, and timeline.
 
-**Next steps:** Finalize orders and charger selection; verify dimensions and connector compatibility; measure the hilt on arrival; begin chassis CAD design.
+**Next steps:** Finalize orders; verify charger compatibility with the protected 18650, dimensions, and connector compatibility; measure the hilt on arrival; begin chassis CAD design.
 
 Add new dated entries here describing work completed, obstacles, decisions, test results, and next steps.
 
