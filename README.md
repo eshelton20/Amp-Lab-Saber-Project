@@ -54,7 +54,7 @@ Verify subsystem function and full-system behavior: power and battery safety, LE
 
 ## Bill of Materials
 
-Prices reflect the current planning list and may change at checkout. The AliExpress electronics bundle is expected to include the Proffieboard, speaker, switches, wiring, and illuminated hilt-side pogo connector; contents and connector compatibility will be verified on receipt.
+Prices reflect the current planning list and may change at checkout. The AliExpress electronics bundle is expected to include the Proffieboard, speaker, switches, wiring, and illuminated hilt-side pogo connector.
 
 | Item | Quantity | Estimated Cost | Link |
 |---|---:|---:|---|
@@ -96,7 +96,6 @@ The working target is a functional prototype by **February–March 2027**, with 
 
 **Next steps:** Finalize orders; verify charger compatibility with the protected 18650, dimensions, and connector compatibility; measure the hilt on arrival; begin chassis CAD design.
 
-Add new dated entries here describing work completed, obstacles, decisions, test results, and next steps.
 
 ## Project Files
 
