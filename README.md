@@ -54,7 +54,7 @@ Verify subsystem function and full-system behavior: power and battery safety, LE
 
 ## Bill of Materials
 
-Prices reflect the current planning list and may change at checkout. The AliExpress electronics bundle is expected to include the Proffieboard, speaker, switches, wiring, and illuminated hilt-side pogo connector.
+Prices reflect the current planning list and may change at checkout.
 
 | Item | Quantity | Estimated Cost | Link |
 |---|---:|---:|---|
