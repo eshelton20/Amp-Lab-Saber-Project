@@ -123,6 +123,4 @@ Files will be added and updated as the project progresses.
 - [ProffieOS configuration guide](https://pod.hubbe.net/config/the-config-file.html)
 - [The Custom Saber Shop](https://www.thecustomsabershop.com/)
 
-## Project Image
 
-Replace **`hero.png`** in the repository root with a representative project image, keeping the filename unchanged for the AMP Lab website. A photo of the completed build can replace the initial concept image later.
