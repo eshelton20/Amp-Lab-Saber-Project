@@ -5,7 +5,7 @@
 ## Project Owner
 
 **Name:** Evan Shelton  
-**Virginia Tech Email:** [Add VT email]
+**Virginia Tech Email:** evans06@vt.edu
 
 ## Project Overview
 
@@ -100,20 +100,21 @@ Add new dated entries here describing work completed, obstacles, decisions, test
 
 ## Project Files
 
-Planned repository structure (create folders as files become available):
+This repository contains the design files, firmware
+configurations, electrical schematics, and images
+associated with the lightsaber project.
 
-```text
-CAD/             Chassis, crystal mount, and printable models
-Firmware/        ProffieOS configuration and custom blade styles
-Schematics/      Wiring diagrams and electrical design notes
-Documentation/   Calculations, assembly instructions, design decisions
-Images/          Build photographs and renders
-Testing/         Test procedures, results, and troubleshooting
-README.md        Project overview and progress log
-hero.png         Project cover image for the AMP Lab website
-```
+- [CAD](./CAD/) — Custom chassis models, crystal chamber
+  designs, and 3D-printing files.
+- [Firmware](./Firmware/) — ProffieOS configuration files
+  and custom lighting effects.
+- [Schematics](./Schematics/) — Electrical wiring diagrams
+  and circuit documentation.
+- [Images](./Images/) — Build progress, CAD screenshots,
+  and photographs of the completed project.
 
-For firmware, maintain your own configurations and modifications separately from the upstream ProffieOS source, and attribute reused code as appropriate.
+Files will be added and updated as the project progresses.
+
 
 ## Useful Links
 
